@@ -7,4 +7,4 @@
 https://taipy.io/
 https://aistudio.google.com/prompts.new_chat
 
-![Sample Image](Site capture.png)
+![Sample Image](Site_capture.PNG)
